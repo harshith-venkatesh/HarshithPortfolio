@@ -1,111 +1,130 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Francisco!',
+  siteTitle: 'Harshith Venkatesh',
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Francisco Santos',
-  twitterUsername: '_franciscodf',
-  githubUsername: 'santosfrancisco',
+  authorName: 'Harshith Venkatesh',
+  twitterUsername: 'HarshithVenkat9',
+  githubUsername: 'Harshi7016',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+    In 2018 I started working as a Web Application Developer in CenturyLink India.
+    I have completed my B.Tech in Manipal Institute of Technology <br />
+    I currently work as a frontend developer and mainly work with <strong>Javascript, Angular, NodeJS, React.</strong>`,
   skills: [
     {
       name: 'HTML',
-      level: 70
+      level: 70,
     },
     {
       name: 'CSS',
-      level: 60
+      level: 60,
     },
     {
       name: 'Javascript',
-      level: 50
+      level: 80,
     },
     {
       name: 'NodeJs',
-      level: 40
+      level: 70,
     },
     {
       name: 'React',
-      level: 60
+      level: 77,
     },
     {
       name: 'Git',
-      level: 70
+      level: 70,
+    },
+    {
+      name: 'Angular',
+      level: 81,
     },
     /* more skills here */
   ],
   jobs: [
     /* more jobs here */
     {
-      company: "Gympass",
+      company: 'CenturyLink India',
       begin: {
-        month: 'sep',
-        year: '2019'
+        month: 'aug',
+        year: '2018',
       },
       duration: null,
-      occupation: "Frontend developer",
-      description: "I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies."
-  
-    },  {
-      company: "Lendico",
+      occupation: 'Web Application Developer',
+      description:
+        // 'I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies.',
+        'Created the enterprise dashboard and the data visualization module for different assets in Financial Blockchain Ledger Project. I got the opportunity to set up the front end module and maintain it. Played the role of mentor and been a part of cultural team. Collaborated on high priority projects with tact and strong attention to detail. Tech Stack: Angular, Gitlab, NodeJS',
+    },
+    {
+      company: 'Manipal Institute of Technology',
       begin: {
-        month: 'apr',
-        year: '2018'
+        month: 'aug',
+        year: '2014',
       },
-      duration: null,
-      occupation: "Frontend developer",
-      description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
-  
-    }, {
-      company: "Anapro",
+      duration: '4 years',
+      occupation: 'Student',
+      description:
+        'Secured 8.44GPA - B.Tech in Electronices and Communication.Responsibalities include: Technical Secretary, Coding and Development Head - Akshay Urja Club, Event Head for ENERGIA- Techtatva-2016(Technical Fest of MIT, Manipal),Organiser for Judges Category during REVELS-2016(Cultural Fest of MIT, Manipal)',
+    },
+    {
+      company: 'Vidyodaya Public School',
       begin: {
         month: 'dec',
-        year: '2016'
+        year: '2006',
       },
-      duration: '1 yr e 5 mos',
-      occupation: "Fullstack developer",
-      description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
-    }, {
-      company: "Anapro",
-      begin: {
-        month: 'set',
-        year: '2012'
-      },
-      duration: '4 yrs e 3 mos',
-      occupation: "Support Technician",
-      description: "Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool."
-  
+      duration: '8 years',
+      occupation: 'Studnet',
+      description:
+        'Secured 94% in +12 and got 100% Scholorship seat in MIT Manipal for securing 541 rank in MU-OET',
     },
   ],
   portifolio: [
     {
-      image: "/images/gatsby-starter-cv.png",
-      description: "Gatsby starter CV template",
-      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
+      image: '/images/project1.png',
+      description: 'Where in the World!',
+      url: 'https://whereintheworldismycountry.netlify.app/',
     },
     {
-      image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS",
-      url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
+      image: '/images/project6.png',
+      description: 'Farm2Home MERN Project',
+      url: 'https://farm2wohome.herokuapp.com/',
     },
+    {
+      image: '/images/project2.png',
+      description: 'Expense Tracker using Angular',
+      url: 'https://kharchapaani.netlify.app/',
+    },
+    {
+      image: '/images/project3.png',
+      description: 'Covid Tracker using React',
+      url: 'https://covid19trackerdemo.netlify.app/',
+    },
+    {
+      image: '/images/project4.png',
+      description: 'Weather Progressive Web App',
+      url: 'https://progressiveweatherapp.netlify.app/',
+    },
+    {
+      image: '/images/project5.png',
+      description: 'Weather Progressive Web App',
+      url: 'https://iamtheonewhoknocks.netlify.app/',
+    },
+
     /* more portifolio items here */
   ],
   social: {
-    twitter: "https://twitter.com/_franciscodf",
-    linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
-    email: "yoshi.df@gmail.com"
+    twitter: 'https://twitter.com/HarshithVenkat9',
+    linkedin: 'https://www.linkedin.com/in/harshith-v-7016ece',
+    github: 'https://github.com/Harshi7016',
+    email: 'harshithece7016@gmail.com',
   },
-  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
-  pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
+  siteUrl: 'https://harshi7016.github.io',
+  // pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
-  googleAnalyticsId: 'UA-000000000-1',
+  googleAnalyticsId: 'UA-171686543-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
-  fontColor: "#000000cc",
+  fontColor: '#000000cc',
   enableDarkmode: true, // If true, enables dark mode switch
   display: 'minimal-ui',
   icon: 'src/assets/gatsby-icon.png',
@@ -117,6 +136,6 @@ module.exports = {
     {
       label: 'Portifolio',
       url: '/portifolio',
-    }
-  ]
+    },
+  ],
 }
