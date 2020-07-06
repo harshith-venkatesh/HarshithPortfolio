@@ -106,7 +106,7 @@ module.exports = {
     },
     {
       image: '/images/project5.png',
-      description: 'Weather Progressive Web App',
+      description: 'Breaking Bad',
       url: 'https://iamtheonewhoknocks.netlify.app/',
     },
 

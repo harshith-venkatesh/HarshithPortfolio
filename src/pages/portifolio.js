@@ -58,10 +58,18 @@ const Portifolio = ({ className, location }) => {
                   target="_blank"
                 >
                   <Image
-                    style={{ width: '150px', height: '150px' }}
+                    style={{
+                      width: '150px',
+                      height: '150px',
+                      // margin: '0 5%',
+                      display: 'block',
+                      marginLeft: 'auto',
+                      marginRight: 'auto',
+                      width: '100%',
+                    }}
                     src={withPrefix(job.image)}
                   />
-                  <p>{job.description}</p>
+                  <p style={{ textAlign: 'center' }}>{job.description}</p>
                 </JobCard>
               </Col>
             ))}
