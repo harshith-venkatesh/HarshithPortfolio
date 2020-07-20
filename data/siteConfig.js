@@ -6,10 +6,8 @@ module.exports = {
   twitterUsername: 'HarshithVenkat9',
   githubUsername: 'Harshi7016',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2018 I started working as a Web Application Developer in CenturyLink India.
-    I have completed my B.Tech in Manipal Institute of Technology <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, Angular, NodeJS, React.</strong>`,
+  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />In 2018 I started working as a Web Application Developer in CenturyLink India.
+    I have completed my B.Tech in Manipal Institute of Technology <br /> I currently work as a frontend developer and mainly focus on <strong>Javascript, Angular, NodeJS, React.</strong>`,
   skills: [
     {
       name: 'HTML',
