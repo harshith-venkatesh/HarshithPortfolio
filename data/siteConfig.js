@@ -8,7 +8,6 @@ module.exports = {
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />In 2018 I started working as a Web Application Developer in CenturyLink India.
     I have completed my B.Tech in Manipal Institute of Technology <br /> I currently work as a frontend developer and mainly focus on <strong>Javascript, Angular, NodeJS, React.</strong>`,
-  ,
   jobs: [
     /* more jobs here */
     {
