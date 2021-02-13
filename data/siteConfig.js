@@ -3,46 +3,16 @@ module.exports = {
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Harshith Venkatesh',
-  twitterUsername: 'HarshithVenkat9',
-  githubUsername: 'Harshi7016',
+  twitterUsername: 'Harshith_V007',
+  githubUsername: 'harshith-venkatesh',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />In 2018 I started working as a Web Application Developer in CenturyLink India.
     I have completed my B.Tech in Manipal Institute of Technology <br /> I currently work as a frontend developer and mainly focus on <strong>Javascript, Angular, NodeJS, React.</strong>`,
-  skills: [
-    {
-      name: 'HTML',
-      level: 70,
-    },
-    {
-      name: 'CSS',
-      level: 60,
-    },
-    {
-      name: 'Javascript',
-      level: 80,
-    },
-    {
-      name: 'NodeJs',
-      level: 70,
-    },
-    {
-      name: 'React',
-      level: 77,
-    },
-    {
-      name: 'Git',
-      level: 70,
-    },
-    {
-      name: 'Angular',
-      level: 81,
-    },
-    /* more skills here */
-  ],
+  ,
   jobs: [
     /* more jobs here */
     {
-      company: 'CenturyLink India',
+      company: 'Lumen India',
       begin: {
         month: 'aug',
         year: '2018',
@@ -111,12 +81,12 @@ module.exports = {
     /* more portifolio items here */
   ],
   social: {
-    twitter: 'https://twitter.com/HarshithVenkat9',
-    linkedin: 'https://www.linkedin.com/in/harshith-v-7016ece',
-    github: 'https://github.com/Harshi7016',
+    twitter: 'https://twitter.com/Harshith_V007',
+    linkedin: 'https://www.linkedin.com/in/harshithvenkatesh',
+    github: 'https://github.com/harshithvenkatesh',
     email: 'harshithece7016@gmail.com',
   },
-  siteUrl: 'https://harshi7016.github.io',
+  siteUrl: 'https://harshith-venkatesh.github.io',
   // pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: 'UA-171686543-1',
