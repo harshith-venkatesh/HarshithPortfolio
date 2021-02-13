@@ -69,11 +69,8 @@ const Home = ({ className, location }) => {
             </Col>
           </Row>
           <Row>
-            <Col xs={4} sm={4}>
+            <Col xs={8} sm={8}>
               <About title='About' text={siteConfig.authorDescription}/>
-            </Col>
-            <Col xs={4} sm={4}>
-              <Skills title='Skills' skills={siteConfig.skills} />
             </Col>
           </Row>
           <Separator />
