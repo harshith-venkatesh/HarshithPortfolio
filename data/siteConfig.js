@@ -6,8 +6,8 @@ module.exports = {
   twitterUsername: 'Harshith_V007',
   githubUsername: 'harshith-venkatesh',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />In 2018 I started working as a Web Application Developer in CenturyLink India.
-    I have completed my B.Tech in Manipal Institute of Technology <br /> I currently work as a frontend developer and mainly focus on <strong>Javascript, Angular, NodeJS, React.</strong>`,
+  authorDescription: `Experienced Coordinator with a demonstrated history of working on UI Development. Skilled in <strong>React.js, JavaScript, Angular, NodeJS, CSS, HTML</strong>.
+  Actively involved in product discussion, development of three projects on Angular and React in Lumen Technologies. Apart from office work, I am an active member, App Owner(Events Page) of an open-source community - Real Dev Squad where I involve in building unique features, interact with students on web development from various parts of the world, code reviews, etc`,
   jobs: [
     /* more jobs here */
     {
@@ -17,35 +17,57 @@ module.exports = {
         year: '2018',
       },
       duration: null,
-      occupation: 'Web Application Developer',
+      occupation: 'Software Development Consultant I',
       description:
-        // 'I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies.',
-        'Created the enterprise dashboard and the data visualization module for different assets in Financial Blockchain Ledger Project. I got the opportunity to set up the front end module and maintain it. Played the role of mentor and been a part of cultural team. Collaborated on high priority projects with tact and strong attention to detail. Tech Stack: Angular, Gitlab, NodeJS',
+        
+        `
+        - Developed Responsive SPA Enterprise Dashboard, assets   display for 1M+ transactions using Angular 8, NodeJS, GitLab, Material UI. 
+
+        - Devoted special emphasis to display relevant data based on criteria and implemented features to ease data visualization. 
+
+        - Awarded for initiating and leading a team of 3 people for devising a tracking tool, Enterprise Dashboard project which automates PASE team's performance by 40%.
+
+        - Improved project performance by 60% by caching, lazy loading,optimization of code. 
+
+        - Created an SPA using ReactJS, Ag-Grid,D3.js consisting of multiple dashboards for invoice portal. 
+        
+        - Involved in migrating the application from manual deployment to CI/CD pipeline using Jenkins and GitHub actions.
+        
+        `,
     },
     {
-      company: 'Manipal Institute of Technology',
+      company: 'Real Dev Squad',
       begin: {
         month: 'aug',
-        year: '2014',
+        year: '2020',
       },
-      duration: '4 years',
-      occupation: 'Student',
+      duration: null,
+      occupation: 'Open Source Contributor',
       description:
-        'Secured 8.44GPA - B.Tech in Electronices and Communication.Responsibalities include: Technical Secretary, Coding and Development Head - Akshay Urja Club, Event Head for ENERGIA- Techtatva-2016(Technical Fest of MIT, Manipal),Organiser for Judges Category during REVELS-2016(Cultural Fest of MIT, Manipal)',
+        `
+        - Managing open source web development community having 100+ members 
+
+        - App Owner of Events App which contains the role of TechLead, Project Manager.
+
+        - Moderated and coordinated in building multiple projects built on React, NextJS, NodeJS at Real Dev Squad. 
+
+        - Proactively involved in setting up repositories, reviewing codes, and overseeing PRs.
+        
+        `,
     },
-    {
-      company: 'Vidyodaya Public School',
-      begin: {
-        month: 'dec',
-        year: '2006',
-      },
-      duration: '8 years',
-      occupation: 'Studnet',
-      description:
-        'Secured 94% in +12 and got 100% Scholorship seat in MIT Manipal for securing 541 rank in MU-OET',
-    },
+    ,
   ],
   portifolio: [
+    {
+      image:'/images/project_techkart.png',
+      description:'Tech Kart',
+      url: 'https://techcart-app.herokuapp.com/'
+    },
+    {
+      image:'/images/project_shankha.PNG',
+      description:'Shankha CSS',
+      url: 'http://shankhacss.netlify.app/'
+    },
     {
       image: '/images/project1.png',
       description: 'Where in the World!',
@@ -81,8 +103,8 @@ module.exports = {
   ],
   social: {
     twitter: 'https://twitter.com/Harshith_V007',
-    linkedin: 'https://www.linkedin.com/in/harshithvenkatesh',
-    github: 'https://github.com/harshithvenkatesh',
+    linkedin: 'https://www.linkedin.com/in/harshithvenkatesh/',
+    github: 'https://github.com/harshith-venkatesh',
     email: 'harshithece7016@gmail.com',
   },
   siteUrl: 'https://harshith-venkatesh.github.io',
