@@ -11,7 +11,7 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: 'Lumen India',
+      company: 'Freshworks India',
       begin: {
         month: 'dec',
         year: '2021',
@@ -24,7 +24,8 @@ module.exports = {
         `
        ● Part of the platforms team, building a product called Custom Objects involved from ideation, design, and
 system design discussion to releasing the product that millions of customers have consumed.
-● Designed and developed components known as Entity Builder, Widget which was appreciated by the team
+
+  ● Designed and developed components known as Entity Builder, Widget which was appreciated by the team
 and products team for its feasibility and adaptability by users
 ● Improved delight metrics Apdex scores of our product from 0.86 to 0.95 through various measures like
 improving widget loading speed, reducing bundled size, and UI deployment architecture changes.
