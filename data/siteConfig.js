@@ -25,17 +25,30 @@ module.exports = {
        ● Part of the platforms team, building a product called Custom Objects involved from ideation, design, and
 system design discussion to releasing the product that millions of customers have consumed.
 
-  ● Designed and developed components known as Entity Builder, Widget which was appreciated by the team
+  
+● Designed and developed components known as Entity Builder, Widget which was appreciated by the team
 and products team for its feasibility and adaptability by users
+
+
 ● Improved delight metrics Apdex scores of our product from 0.86 to 0.95 through various measures like
 improving widget loading speed, reducing bundled size, and UI deployment architecture changes.
+
+
 ● Migrated Ember application from 3.0 to 3.16 to resolve security issues and support product requirements.
+
+
 ● Involved in migrating the application from manual deployment to CI/CD pipeline using Jenkins and GitHub
 actions.
+
+
 ● Appreciated and awarded in the organization for quick delivery of managing the translations of dynamic
 headers through YAML file upload and internationalization.
+
+
 ● Appreciated for introducing web component providing features to add & link records in product page within
 a quarter leading to 340k+ USD revenue for the product.
+
+
 ● Taken multiple organization-wide sessions on React and Web Security and Mentored a team of 3-5
 engineers to the Custom Object React.js codebase through code reviews and guided them to enhance their
 debugging skills
